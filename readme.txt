@@ -30,7 +30,10 @@ Installation Note:  On WordPress version 2.7.1 you may see a notice saying "Plug
 
 Yes you may, just add this style definition to your stylesheet (usually styles.css) and adjust as desired.
 
-	a.bible { color:#3C7DA8; text=decoration:none; } 
+	a.bible { 
+		color:#3C7DA8; 
+		text-decoration:none; 
+	} 
 
 
 - How do I try it out?
