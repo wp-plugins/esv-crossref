@@ -51,3 +51,4 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 
 = 1.0 =
 * Initial release.
+* Trying to get screenshots uploading.
