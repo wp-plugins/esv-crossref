@@ -43,12 +43,14 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 2. This plugin requires that Javascript is enabled.  Check to see if Javascript is disabled for your browser.
 
 == Screenshots ==
-The first screenshot is an example of scripture reference that have been converted into hover-able links.  The rest demonstrate how it will appear once installed.
 
-screenshot-1.png
-screenshot-2.png
-screenshot-3.png
-screenshot-4.png
+1. The first screenshot is an example of scripture reference that have been converted into hover-able links.  The rest demonstrate how it will appear once installed.
+
+2. screenshot-2.png
+
+3. screenshot-3.png
+
+4. screenshot-4.png
 
 == Changelog ==
 
