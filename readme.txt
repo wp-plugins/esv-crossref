@@ -1,5 +1,5 @@
 ==== ESV CrossRef ===
-Contributors: Crossway, dwickwire
+Contributors: Crossway
 Donate link:  http://www.crossway.org/donate/
 Tags: crossref, esv, bible, ref, reference, references, scripture, tagging
 Requires at least: 2.1
