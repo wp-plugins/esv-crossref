@@ -45,6 +45,10 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 == Screenshots ==
 The first screenshot is an example of scripture reference that have been converted into hover-able links.  The rest demonstrate how it will appear once installed.
 
+screenshot-1.png
+screenshot-2.png
+screenshot-3.png
+screenshot-4.png
 
 == Changelog ==
 
