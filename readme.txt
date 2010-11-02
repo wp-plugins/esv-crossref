@@ -4,7 +4,7 @@ Donate link:  http://www.crossway.org/donate/
 Tags: crossref, esv, bible, ref, reference, references, scripture, tagging
 Requires at least: 2.1
 Tested up to: 3.0.1
-Stable tag: tags
+Stable tag: trunk
 
 
 == Description ==
