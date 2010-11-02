@@ -18,7 +18,7 @@ For more information, visit http://esv.org/tools/esv-crossref/
 == Installation ==
 
 1. In your WordPress admin, go to Plugins > Add New
-2. Search for 'CrossRef' or Upload the downloaded 'crossref.zip' file.
+2. Search for 'CrossRef' or Upload the downloaded 'esv-crossref.zip' file.
 3. Click 'Install', then 'Install Now', and then 'Activate Plugin'.
 
 Installation Note:  On WordPress version 2.7.1 you may see a notice saying "Plugin files not found." when activating.  Try to return to the plugin list and activate again.  
