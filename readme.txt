@@ -4,7 +4,7 @@ Donate link:  http://www.crossway.org/donate/
 Tags: crossref, esv, bible, ref, reference, references, scripture, tagging
 Requires at least: 2.1
 Tested up to: 3.0.1
-Stable tag: tags/1.0/
+Stable tag: tags
 
 
 == Description ==
@@ -51,4 +51,3 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 
 = 1.0 =
 * Initial release.
-* Trying to get screenshots uploading.
