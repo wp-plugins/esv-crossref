@@ -27,18 +27,18 @@ Installation Note:  On WordPress version 2.7.1 you may see a notice saying "Plug
 == Frequently Asked Questions ==
 
 - Can I change the styling of the links?
+
 Yes you may, just add this style definition to your stylesheet (usually styles.css) and adjust as desired.
 
-	a.bible { 
-		color:#3C7DA8; 
-		text-decoration:none; 
-	} 
+	a.bible { color:#3C7DA8; text-decoration:none; } 
 
 
 - How do I try it out?
+
 Add a bible reference (eg. John 3:16) onto a page or a post and it will be converted into a hover-able link.
 
 - The plugin is not working
+
 1. Please make sure the plugin is enabled.
 2. This plugin requires that Javascript is enabled.  Check to see if Javascript is disabled for your browser.
 
