@@ -16,7 +16,7 @@ For more information, visit http://esv.org/tools/esv-crossref/
 
 == Installation ==
 
-1. In your WordPress admin, go to Plugins > Add New
+1. In your WordPress admin, go to 'Plugins' > 'Add New'
 2. Search for 'CrossRef' or Upload the downloaded 'esv-crossref.zip' file.
 3. Click 'Install', then 'Install Now', and then 'Activate Plugin'.
 
@@ -44,11 +44,8 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 == Screenshots ==
 
 1. Example of scripture reference that have been converted into hover-able links.
-
 2. Hovering over a link.
-
 3. Hovering over a link.
-
 4. Hovering over a link.
 
 
