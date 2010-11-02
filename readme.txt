@@ -50,7 +50,6 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 == Screenshots ==
 
 1. Example of scripture reference that have been converted into hover-able links.
-	 http://www.esvapi.org/crossref/screenshots/1.png
-
 2. Example of the hover over
-	http://www.esvapi.org/crossref/screenshots/2.png
+3. Another Example of the hover over
+4. Another Example of the hover over
