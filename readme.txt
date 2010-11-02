@@ -42,17 +42,15 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 2. This plugin requires that Javascript is enabled.  Check to see if Javascript is disabled for your browser.
 
 
-== Screenshots ==
-
-- 1. Example of scripture reference that have been converted into hover-able links.
-	 http://www.esvapi.org/crossref/screenshots/1.png
-
-- 2. Example of the hover over
-	http://www.esvapi.org/crossref/screenshots/2.png
-
-
-
 == Changelog ==
 
 = 1.0 =
 * Initial release.
+
+== Screenshots ==
+
+1. Example of scripture reference that have been converted into hover-able links.
+	 http://www.esvapi.org/crossref/screenshots/1.png
+
+2. Example of the hover over
+	http://www.esvapi.org/crossref/screenshots/2.png
