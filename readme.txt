@@ -43,13 +43,13 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 
 == Screenshots ==
 
-1. The first screenshot is an example of scripture reference that have been converted into hover-able links.  The rest demonstrate how it will appear once installed.
+1. Example of scripture reference that have been converted into hover-able links.
 
-2. screenshot-2.png
+2. Hovering over a link.
 
-3. screenshot-3.png
+3. Hovering over a link.
 
-4. screenshot-4.png
+4. Hovering over a link.
 
 
 == Changelog ==
