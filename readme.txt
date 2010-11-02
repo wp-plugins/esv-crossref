@@ -44,9 +44,6 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 == Screenshots ==
 
 1. Example of scripture reference that have been converted into hover-able links.
-2. Hovering over a link.
-3. Hovering over a link.
-4. Hovering over a link.
 
 
 == Changelog ==
