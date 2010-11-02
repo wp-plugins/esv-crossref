@@ -1,5 +1,5 @@
 ==== ESV CrossRef ===
-Contributors: crossway, dwickwire
+Contributors: Crossway
 Donate link:  http://www.crossway.org/donate/
 Tags: crossref, esv, bible, ref, reference, references, scripture, tagging
 Requires at least: 2.1
@@ -43,13 +43,10 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 2. This plugin requires that Javascript is enabled.  Check to see if Javascript is disabled for your browser.
 
 == Screenshots ==
-http://www.esvapi.org/crossref/screenshots/1.png
-http://www.esvapi.org/crossref/screenshots/2.png
-http://www.esvapi.org/crossref/screenshots/3.png
-http://www.esvapi.org/crossref/screenshots/4.png
+The first screenshot is an example of scripture reference that have been converted into hover-able links.  The rest demonstrate how it will appear once installed.
 
 
 == Changelog ==
 
-== 1.0 == 
+= 1.0 =
 * Initial release.
