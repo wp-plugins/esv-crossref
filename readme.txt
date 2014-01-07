@@ -9,7 +9,7 @@ Stable tag: trunk
 
 == Description ==
 
-ESV CrossRef, once installed onto your website will scan your site for Old and New Testament Bible references. Once it finds a Bible reference on the page it will convert the reference(s) into a hover-able link! Each time a converted link is hovered over, a small pop up will appear containing the scripture reference. This plug-in is designed to include a single Javascript file into the footer. 
+ESV CrossRef, once installed onto your website will scan your site for Old and New Testament Bible references. Once it finds a Bible reference on the page it will convert the reference(s) into a hover-able link! Each time a converted link is hovered over, a small pop up will appear containing the scripture reference. This plug-in is designed to include a single Javascript file into the footer.
 
 For more information, visit http://esv.org/tools/esv-crossref/
 
@@ -27,8 +27,8 @@ For more information, visit http://esv.org/tools/esv-crossref/
 
 Yes you may, just add this style definition to your stylesheet (usually styles.css) and adjust as desired.
 
-	a.bible { color:#3C7DA8; text-decoration:none; } 
-	
+	a.bible { color:#3C7DA8; text-decoration:none; }
+
 
 - How do I try it out?
 
@@ -38,6 +38,10 @@ Add a bible reference (eg. John 3:16) onto a page or a post and it will be conve
 
 1. Please make sure the plugin is enabled.
 2. This plugin requires that Javascript is enabled.  Check to see if Javascript is disabled for your browser.
+
+- Some of my references aren't being linked.
+
+If you find some references are not being linkified, please double check their abbreviation if they are not written out in canonical form.
 
 
 == Changelog ==
